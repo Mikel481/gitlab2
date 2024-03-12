@@ -1,0 +1,38 @@
+*{
+    padding: 2rem;
+    margin: 2rem;
+}
+.circle{
+ --size:300px;
+ width:var(--size);
+ height:var(--size);
+border: 3px solid black;
+transition: background-color 2s;
+
+}
+
+
+.purple{
+    background-color: purple;
+}
+
+.red{
+    background-color: red;
+}
+
+
+.white{
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
+
+.black{
+    background-color: black;
+}
+
+
+.grey{
+    background-color: grey;
+}
